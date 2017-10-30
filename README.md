@@ -1,2 +1,2 @@
 # Doc-Of-instalation
-instalation oF Git
+Instalation oF Git
